@@ -547,8 +547,11 @@ tr {
 
 img {
   max-width: 100%;
-  border-radius: 5px;
+  max-height: 100%;
+  object-fit: cover;// [cover | contain | fill | scale-down | none];
+  border-radius: 8px;
   margin: 1rem 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   content-visibility: auto;
 }
 
@@ -630,4 +633,11 @@ iframe.pdf {
   background: var(--secondary);
   transition: width 0.2s ease;
   z-index: 9999;
+}
+
+.landing-photo {
+  max-width: 100%;
+  width: 500px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }

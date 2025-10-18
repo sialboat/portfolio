@@ -1,7 +1,8 @@
 ---
 title: Relevant Coursework
+tags:
+  - about
 ---
-
 **Topics of interest:**
 - Writing Music
 - Sound Design
@@ -11,6 +12,25 @@ title: Relevant Coursework
 - Product Design
 - Teaching
 
+## Computer Science
+- Data Structures
+- Computer Systems Organization
+- Operating Systems 
+- Basic Algorithms 
+
+## Music Technology
+- Computer Music Synthesis (Sep 23 - Dec 23)
+- Analog Electronics (Jan 24 - May 24)
+- Digital Electronics (Sep 24 - Dec 24)
+- Digital Recording Technology (Jan 25 - May 25)
+- Audio for Video I & II (Sep 24 - Dec 24, Jan 25 - May 25)
+- Advanced Computer Music
+
+## Music Theory
+- Adv. Theory: Counterpoint in the DAW
+- Adv. Theory: Popular Music
+- Adv. Aural Skills: Popular Music Transcription 
+%% 
 ### Fundamentals of Music Technology (Sep 2023 - Dec 2023)
 - Learned about the various disciplines and concepts relating to sound and perception, digital audio, sound synthesis, MIDI protocol, microphones, and recording techniques. Consisted of a project using recorded sounds and a project using sound synthesis.
 ### Computer Music Synthesis (Sep 2023 - Dec 2023)
@@ -32,3 +52,5 @@ title: Relevant Coursework
 - Learned how to build advanced data structures from scratch, and their respective functionalities. Various projects ranging from manipulating queues and graphs to creating a Binary Search Tree were created.
 ### Computer Systems Organization (Jan 2025 - May 2025)
 - Learned how computer converts human-friendly formats (image, text, audio, video) into binary information, as well as the C and Assembly programming languages. Topics include bitwise operators, pointers, assembly language, cache memory, logic circuits, and its applications
+
+### Operating Systems (Aug 2025 - Dec 2025) %%
