@@ -1,3 +1,7 @@
+---
+title: Relevant Coursework
+---
+
 **Topics of interest:**
 - Writing Music
 - Sound Design
