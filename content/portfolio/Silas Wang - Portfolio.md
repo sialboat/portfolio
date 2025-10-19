@@ -2,7 +2,7 @@
 title: Silas Wang - Portfolio
 tags: portfolio
 aliases:
-  - home
+  - '"home"'
 ---
 <img src = "assets/Artboard 41.png" alt="look mom its me" class="landing-photo" style="display: block; margin: 0 auto;">
 
