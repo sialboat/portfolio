@@ -4,7 +4,7 @@ tags:
   - music
   - project
   - portfolio
-draft: true
+draft: false
 TQ_show_tags:
 ---
 An archive of some of my favorite pieces (finished or unfinished), archived to the [whyp.it](https://whyp.it/users/1444/sialboat) website. My whyp stream ranges from work in progress snippets to finished projects.
