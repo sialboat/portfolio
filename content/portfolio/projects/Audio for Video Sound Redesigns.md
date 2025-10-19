@@ -1,6 +1,8 @@
 ---
 tags:
   - project
+  - portfolio
+TQ_show_tags:
 ---
 
 ## Arcane Sound Re-Design

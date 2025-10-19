@@ -2,6 +2,9 @@
 title: Relevant Coursework
 tags:
   - about
+  - portfolio
+TQ_show_tags:
+draft: true
 ---
 **Topics of interest:**
 - Writing Music

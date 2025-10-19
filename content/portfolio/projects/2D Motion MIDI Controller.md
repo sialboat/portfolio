@@ -2,6 +2,8 @@
 title: 2D Motion MIDI Controller
 tags:
   - project
+  - portfolio
+TQ_show_tags:
 ---
 Fall 2024 Digital Electronics final project featuring a Teensy, two dual-axis joysticks, a DAC, and a 2.2" ILI9341 Display. 
 Essentially the barebones of a game engine using C++ and Arduino's GFX Library, this project creates a controllable triangle that enables the user to have direct control over its position and orientation.

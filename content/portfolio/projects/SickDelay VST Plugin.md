@@ -2,6 +2,8 @@
 title: SickDelay VST Plugin
 tags:
   - project
+  - portfolio
+TQ_show_tags:
 ---
 VST Delay plugin built with Xcode and JUCE. 
 

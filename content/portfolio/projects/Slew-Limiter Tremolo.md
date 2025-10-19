@@ -2,6 +2,7 @@
 title: Slew-Limiter Tremolo
 tags:
   - project
+  - portfolio
 ---
 Spring 2024 Analog Electronics final project featuring a fully analog tremolo effect built on a breadboard. This project utilizes a handful of basic electronics equipment to create a tremolo effect using a vactrol, an amplifying circuit, and an LFO to control the vactrol. 
 
