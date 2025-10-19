@@ -11,5 +11,10 @@ He is actively involved in the Music Technology community at NYU, being one of t
 
 This website was made entirely out of Markdown files using the [Obsidian](https://obsidian.md/) text editor. This website uses [Quartz](https://quartz.jzhao.xyz/), a static-site generator that interfaces very nicely with markdown files, and is hosted on [GitHub Pages](https://github.com/sialboat/portfolio).
 
+[[Stuff I Use]]
+[[Resume]]
+
 ## Contact:
-[Bluesky](https://bsky.app/profile/sialboat-w.bsky.social) [Linkedin](https://www.linkedin.com/in/silas-wang-733346296/) [email: sw5983 {a t} nyu -d o t- edu](mailto:) [GitHub](https://github.com/sialboat)
+I am usually unreachable by social media unless I know you personally. Shoot me an email!
+
+[Bluesky](https://bsky.app/profile/sialboat-w.bsky.social) [Linkedin](https://www.linkedin.com/in/silas-wang-733346296/) [GitHub](https://github.com/sialboat) email: sw5983 ( at ) n y u {d o t} edu
