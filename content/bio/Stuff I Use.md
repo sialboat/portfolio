@@ -1,7 +1,7 @@
 ---
 title: Stuff I Use
 description:
-aliases:
+alias:
 draft:
 tags:
   - about
