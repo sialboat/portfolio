@@ -27,4 +27,4 @@ Some NYU-related things I'm currently apart of
 - I am apart of [GenAudio](https://wp.nyu.edu/steinhardtschoolofcultureeducationandhumandevelopment-nyugenaudio/) Leadership, where we foster learning and research through industry panels, hackathons, reading groups, and hands-on projects.
 
 Feel free to reach out if you're interested in hearing more about me!
-[[About#Contact |Contact]]
+[[Resume]]| [[About#Contact |Contact]]
