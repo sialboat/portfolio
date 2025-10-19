@@ -2,8 +2,6 @@
 tags:
   - about
 ---
-This website serves as a portfolio website of all of my recent works, and some of the other activities within NYU that I have been up to.
-
 **Bio:** Silas Wang is a Music Technology student at NYU Steinhardt on the 5-year Bachelors / Masters track. His interests are sound design, electronic music production, hardware and software product design, and signal processing.
 His studies thusfar at NYU has emphasized disciplines such as Recording Technology, Electronics, Computer Science (Operating Systems, Basic Algorithms), and Music Theory.
 

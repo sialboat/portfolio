@@ -7,4 +7,4 @@ Morning! This corner of the internet serves as my own little digital archive. I'
 
 [[About | More information about me]]
 
-[[Silas Wang - Portfolio]]
+[[Silas Wang - Portfolio | Portfolio]]
