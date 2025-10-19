@@ -1,4 +1,4 @@
-# portfolio
+# personal website
 
 This repository holds the markdown files and various configuration files responsible for maintaining my github portfolio page. The contents of the portfolio website lives in the `content` folder in markdown files. Obsidian, a locally stored markdown text editor was used to build each pages. The markdown files are then sent to Quartz, an SSG, which is then deployed to the internet via GitHub pages. At least that's how I think it works.
 
