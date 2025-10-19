@@ -1,6 +1,6 @@
 ---
 title: Silas Wang
-tags: portfolio
+tags:
 aliases:
 permalink:
 ---
