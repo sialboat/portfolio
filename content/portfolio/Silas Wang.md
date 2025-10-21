@@ -10,7 +10,10 @@ permalink:
 # Morning! I'm Silas. 
 I'm a Music Technology student at NYU. I'm currently pursuing a 5-year bachelors and masters in Music Technology. Alongside Music Technology, I am studying Computer Science, Signal Processing, and Electrical Engineering.
 
-My interests lie within creating hardware and software products that reflect creativity and artistry. This part of my website serves as a portfolio / archive of all of my recent works, and some other things that I've been up to. Thanks for stopping by!
+My interests are twofold: 
+- Creating hardware and software products that represent an embroidery of creativity and artistry,
+- Sharing this knowledge in a manner that is 
+This part of my website serves as a portfolio / archive of all of my recent works, and some other things that I've been up to. Thanks for stopping by!
 
 Some cool things I've done: [[Portfolio Projects| (you can find more of them here)]]:
 - Developing a [[Gaming Handheld MIDI Controller| Teensy-based game controller]] that simultaneously sends MIDI and MIDI-CC data into a DAW whilst controlling a video game (or some HID-adjacent program)
