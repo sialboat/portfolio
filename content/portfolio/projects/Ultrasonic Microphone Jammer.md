@@ -12,16 +12,26 @@ Two research papers were written–both of which utilized sources ranging from c
 
 Both documents were made with this [Typst](https://typst.app/universe/package/charged-ieee/) template. [Typst](https://typst.app/) is a modern typesetting language akin to systems like LaTeX, just with less boilerplate and real-time compilation.
 
-<iframe src="content/assets/documents/Silas-Wang-Adv.-Acoustics-Audio-Surveillance-and-Acoustic-Attacks.pdf"
-width="100%" 
-height="600px"
-style="border: none;"
-title="Silas Wang Audio Surveillance and Acoustic Attacks">
-</iframe>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  
+  <div style="flex: 1 1 45%; min-width: 300px;">
+	
+	<iframe src="content/assets/documents/Silas-Wang-Adv.-Acoustics-Audio-Surveillance-and-Acoustic-Attacks.pdf"
+	width="100%" 
+	height="600px"
+	style="border: none;"
+	title="Silas Wang Audio Surveillance and Acoustic Attacks">
+	</iframe>
+  </div>
 
-<iframe src="content/assets/documents/Silas-Wang-Adv.-Acoustics-Ultrasonic-Mic-Jammers.pdf"
-width="100%" 
-height="600px"
-style="border: none;"
-title="Silas Wang Ultrasonic Microphone Jammers">
-</iframe>
+  <div style="flex: 1 1 45%; min-width: 300px;">
+	<iframe src="content/assets/documents/Silas-Wang-Adv.-Acoustics-Ultrasonic-Mic-Jammers.pdf"
+	width="100%" 
+	height="600px"
+	style="border: none;"
+	title="Silas Wang Ultrasonic Microphone Jammers">
+	</iframe>
+  </div>
+
+</div>
+
