@@ -11,20 +11,21 @@ permalink:
 I'm a Music Technology student at NYU. I'm currently pursuing a 5-year bachelors and masters in Music Technology. Alongside Music Technology, I am studying Computer Science, Signal Processing, and Electrical Engineering.
 
 My interests are twofold: 
-- Creating hardware and software products that represent an embroidery of creativity and artistry
-- Sharing this knowledge in both an accessible and thorough manner that inspires other people to make stuff
+- Making hardware and software products
+- Sharing knowledge in both an accessible and thorough nature that inspires other people to make stuff
 
 This part of my website serves as a portfolio / archive of all of my recent works, and some other things that I've been up to. Thanks for stopping by!
 
-Some cool things I've done: [[Portfolio Projects| (you can find more of them here)]]:
+Some cool things I've done:
 - Developing a [[Gaming Handheld MIDI Controller| Teensy-based game controller]] that simultaneously sends MIDI and MIDI-CC data into a DAW whilst controlling a video game (or some HID-adjacent program)
-- Developing a [[SickDelay VST Plugin | Delay VST plugin]] using the JUCE framework with sound design focused features such as delay-tap offset and an FX-insert within the feedback loop.
+- Developing a [[SickDelay VST Plugin | Delay VST plugin]] using the JUCE framework with sound design focused feature set such as delay-tap offset and an FX-insert within the feedback loop.
 - Built an [[Slew-Limiter Tremolo | analog tremolo effect]]  with a slew-limited square and triangle LFO.
 - [[Ultrasonic Microphone Jammer | A research paper on Ultrasonic Microphone Jammers]]
+[[Portfolio Projects| (you can find more of them here)]]
 
-Some NYU-related things I'm currently apart of
+Some NYU-related things I'm currently involved in
 - I help put together [MTech Invasion](https://sites.google.com/nyu.edu/mtech-invasion/invade?authuser=0) every semester! MTech Invasion is a student-run style-agnostic "Pandora's Box" concert featuring Music Technology students.
 - I am apart of [GenAudio](https://wp.nyu.edu/steinhardtschoolofcultureeducationandhumandevelopment-nyugenaudio/) Leadership, where we foster learning and research through industry panels, hackathons, reading groups, and hands-on projects.
 
 Feel free to reach out if you're interested in hearing more about me!
-[[Resume]]| [[About#Contact |Contact]]
+[[Resume]] [[About#Contact |Contact]]

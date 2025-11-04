@@ -7,9 +7,9 @@ tags:
 draft: false
 TQ_show_tags:
 ---
-An archive of some of my favorite pieces (finished or unfinished), archived to the [whyp.it](https://whyp.it/users/1444/sialboat) website. My whyp stream ranges from work in progress snippets to finished projects.
+An archive of some of my favorite pieces (finished or unfinished), archived to the [whyp.it](https://whyp.it/users/1444/sialboat) website. My whyp account ranges from work in progress bounces to finished projects.
 
-The long-term plan is to put music exclusively on [bandcamp](https://sialboat.bandcamp.com/), as I despise current streaming platforms and the middleware that is required to place them on platforms.
+The long-term plan is to put music exclusively on [bandcamp](https://sialboat.bandcamp.com/), as I despise current streaming platforms and the middleware that is required to place them on said platforms.
 
 [The Last Letter](https://whyp.it/tracks/128416/the-last-letter) - inspired by the dialog from the end of the "Perks of a Wallflower" movie. This one part of the movie really resonated with me, and so I decided to write music to dialog (as if it was a movie), and I think it turned out really well.
 
