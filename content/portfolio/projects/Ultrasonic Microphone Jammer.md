@@ -18,3 +18,10 @@ height="600px"
 style="border: none;"
 title="Silas Wang Ultrasonic Microphone Jammers">
 </iframe>
+
+<iframe src="content/assets/documents/Silas-Wang-Adv.-Acoustics-Audio-Surveillance-and-Acoustic-Attacks.pdf"
+width="100%" 
+height="600px"
+style="border: none;"
+title="Silas Wang Audio Surveillance and Acoustic Attacks">
+</iframe>
