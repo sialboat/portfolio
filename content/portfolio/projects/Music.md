@@ -11,7 +11,9 @@ An archive of some of my favorite pieces (finished or unfinished), archived to t
 
 The long-term plan is to put music exclusively on [bandcamp](https://sialboat.bandcamp.com/), as I despise current streaming platforms and the middleware that is required to place them on said platforms.
 
-[CR7 - the bright places](https://whyp.it/tracks/271461/cr7-bright-places) - Counterpoint study using multiple isorhythms and extracted dialog from the film "All the Bright Places"
+[Assignment 7a - Oats](https://whyp.it/tracks/321697/wang-silas-cr7a?token=xkDMs) - Counterpoint study using multiple isorhythms and an extracted dialog from [this youtube video](https://www.youtube.com/watch?v=O7FIiYsVy3U)
+
+[Assignment 7 - the bright places](https://whyp.it/tracks/271461/cr7-bright-places) - Counterpoint study using multiple isorhythms and extracted dialog from the film "All the Bright Places"
 
 [Assignment 4](https://whyp.it/tracks/258674/assignment-4-2025-02-18-0036) - Counterpoint study featuring a cantus firmus that dynamically changes throughout the song's duration.
 
