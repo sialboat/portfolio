@@ -21,5 +21,5 @@ Additional documentation (including a [demo video](https://www.youtube.com/watch
 width="100%" 
 height="600px"
 style="border: none;"
-title="Silas Wang Resume 2025-09-15">
+title="Silas Product Design Midterm Documentation">
 </iframe>
