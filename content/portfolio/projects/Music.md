@@ -11,6 +11,12 @@ An archive of some of my favorite pieces (finished or unfinished), archived to t
 
 The long-term plan is to put music exclusively on [bandcamp](https://sialboat.bandcamp.com/), as I despise current streaming platforms and the middleware that is required to place them on said platforms.
 
+[CR7 - the bright places](https://whyp.it/tracks/271461/cr7-bright-places) - Counterpoint study using multiple isorhythms and extracted dialog from the film "All the Bright Places"
+
+[Assignment 4](https://whyp.it/tracks/258674/assignment-4-2025-02-18-0036) - Counterpoint study featuring a cantus firmus that dynamically changes throughout the song's duration.
+
+[Assignment 2a](https://whyp.it/tracks/255986/arjomand-assignment-2a-2025-02-10-0013) - Counterpoint study featuring a cantus firmus and a random drum generator.
+
 [The Last Letter](https://whyp.it/tracks/128416/the-last-letter) - inspired by the dialog from the end of the "Perks of a Wallflower" movie. This one part of the movie really resonated with me, and so I decided to write music to dialog (as if it was a movie), and I think it turned out really well.
 
 [Home](https://whyp.it/tracks/56801/home-nov-30-2022?token=gnO48) - A chill, laid-back hip hop track that features a plethora of sonic flavors that resolve in a triumphant letter documenting where I believe “home” is.[Petrichor](https://whyp.it/tracks/88740/petrichor-apr-13-23) - an unfinished musical adventure that tries to paint the smell of Petrichor, and then expand it through a flurry of Logic MIDI instruments.  
