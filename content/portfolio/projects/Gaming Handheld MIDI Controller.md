@@ -17,9 +17,11 @@ The backend utilizes a [framebuffer](https://github.com/vindar/ILI9341_T4) and [
 
 Additional documentation (including a [demo video](https://www.youtube.com/watch?v=1ZILFzvfqQk)) about the project's direction can be found below.
 
-<iframe src="/silas-pd-midterm-documentation.pdf"
+[GitHub](https://github.com/sialboat/product-design-sound-controller)
+
+<iframe src="/prod-design-final-documentation.pdf"
 width="100%" 
 height="600px"
 style="border: none;"
-title="Silas Product Design Midterm Documentation">
+title="Product Design Final Documentation">
 </iframe>

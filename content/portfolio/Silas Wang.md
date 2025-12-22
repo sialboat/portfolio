@@ -19,6 +19,7 @@ This part of my website serves as a portfolio / archive of all of my recent work
 Some cool things I've done:
 - Developing a [[Gaming Handheld MIDI Controller| Teensy-based game controller]] that simultaneously sends MIDI and MIDI-CC data into a DAW whilst controlling a video game (or some HID-adjacent program)
 - Developing a [[SickDelay VST Plugin | Delay VST plugin]] using the JUCE framework with sound design focused feature set such as delay-tap offset and an FX-insert within the feedback loop.
+- Developing a [[ESP32 MindFlex Brain-EEG Sound Controller | Brain EEG-powered ESP32 Sound Controller]]utilizing a MindFlex Brain Wave controller and an ESP-32 Development Board to translate EEG waves of various frequencies to control audio-adjacent devices.
 - Built an [[Slew-Limiter Tremolo | analog tremolo effect]]  with a slew-limited square and triangle LFO.
 - [[Ultrasonic Microphone Jammer | A research paper on Ultrasonic Microphone Jammers]]
 [[Portfolio Projects| (you can find more of them here)]]

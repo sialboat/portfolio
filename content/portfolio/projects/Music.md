@@ -21,7 +21,9 @@ The long-term plan is to put music exclusively on [bandcamp](https://sialboat.ba
 
 [The Last Letter](https://whyp.it/tracks/128416/the-last-letter) - inspired by the dialog from the end of the "Perks of a Wallflower" movie. This one part of the movie really resonated with me, and so I decided to write music to dialog (as if it was a movie), and I think it turned out really well.
 
-[Home](https://whyp.it/tracks/56801/home-nov-30-2022?token=gnO48) - A chill, laid-back hip hop track that features a plethora of sonic flavors that resolve in a triumphant letter documenting where I believe “home” is.[Petrichor](https://whyp.it/tracks/88740/petrichor-apr-13-23) - an unfinished musical adventure that tries to paint the smell of Petrichor, and then expand it through a flurry of Logic MIDI instruments.  
+[Home](https://whyp.it/tracks/56801/home-nov-30-2022?token=gnO48) - A chill, laid-back hip hop track that features a plethora of sonic flavors that resolve in a triumphant letter documenting where I believe “home” is.
+
+[Petrichor](https://whyp.it/tracks/88740/petrichor-apr-13-23) - an unfinished musical adventure that tries to paint the smell of Petrichor, and then expand it through a flurry of Logic MIDI instruments.  
 
 ["untitled medieval waltz"](https://whyp.it/tracks/25080/medieval-kinda-waltz-e3OoR) - An orchestral composition / Logic mockup of a “medieval” sounding melody that floated around in my head.  
 

@@ -5,7 +5,6 @@ tags:
 draft: false
 TQ_show_tags:
 ---
-
 Research paper for the NYU Class *Advanced Musical Acoustics* that provides a thorough overview on the principles of Ultrasonic Microphone Jammers. 
 
 Two research papers were written–both of which utilized sources ranging from commonly-available websites to thoroughly peer-reviewed academic papers from IEEE.  The first paper is a thorough analysis on the Ultrasonic Microphone Jammer, its design considerations, and metrics for evaluation. The second is an overview of Audio Surveillance and Acoustic Attacks throughout history.
