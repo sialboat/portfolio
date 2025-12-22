@@ -23,4 +23,4 @@ The aim for this redesign was to sell the intensity of the clip as well as the n
 
 My primary responsibilities for this project included designing and implementing all backgrounds for the Oasis and a little bit of the real-world backgrounds, as well as designing the Hard FX in the Oasis.
 
-[Watch on Vimeo](https://not yet lmao)
+[Watch on Vimeo](https://vimeo.com/1148741157?share=copy&fl=sv&fe=ci)

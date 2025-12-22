@@ -12,6 +12,8 @@ This page serves as an archive of most of my ongoing projects that I've been wor
 
 [[2D Motion MIDI Controller]]
 
+[[EEG Brain Wave MIDI Controller | Mindflex EEG Interactive Music System]]
+
 [[Gaming Handheld MIDI Controller]]
 
 [[Audio for Video Sound Redesigns]]

@@ -21,6 +21,6 @@ The incredible folks at NYU's ITP program provided a comprehensive [tutorial](ht
 ## Current iteration
 For the final project, the MEAP is being used as a MIDI Controller without any other stochastic processes actively modifying the signal. A plugin host like [VCV Rack](https://vcvrack.com) was used alongside select VST plugins ranging from Unfiltered Audio to Freakshow Industries to create an ever evolving soundscape. 
 
-Components within the codebase (development and integration of stochastic processes) will continue to get updated (as they barely work).
+Components within the codebase (development and integration of stochastic processes) will continue to get updated to fulfill the Interactive Music System that has been imagined.
 
 You can find more about the project on the [GitHub repository](https://github.com/sialboat/ESP32-Brain-Wave-MIDI-Controller)

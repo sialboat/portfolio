@@ -10,8 +10,9 @@ permalink:
 # Morning! I'm Silas. 
 I'm a Music Technology student at NYU. I'm currently pursuing a 5-year bachelors and masters in Music Technology. Alongside Music Technology, I am studying Computer Science, Signal Processing, and Electrical Engineering.
 
-My interests are twofold: 
+My interests are threefold: 
 - Making hardware and software products
+- Sound Design
 - Sharing knowledge in both an accessible and thorough nature that inspires other people to make stuff
 
 This part of my website serves as a portfolio / archive of all of my recent works, and some other things that I've been up to. Thanks for stopping by!
@@ -19,14 +20,14 @@ This part of my website serves as a portfolio / archive of all of my recent work
 Some cool things I've done:
 - Developing a [[Gaming Handheld MIDI Controller| Teensy-based game controller]] that simultaneously sends MIDI and MIDI-CC data into a DAW whilst controlling a video game (or some HID-adjacent program)
 - Developing a [[SickDelay VST Plugin | Delay VST plugin]] using the JUCE framework with sound design focused feature set such as delay-tap offset and an FX-insert within the feedback loop.
-- Developing a [[ESP32 MindFlex Brain-EEG Sound Controller | Brain EEG-powered ESP32 Sound Controller]]utilizing a MindFlex Brain Wave controller and an ESP-32 Development Board to translate EEG waves of various frequencies to control audio-adjacent devices.
+- Developing a [[ESP32 MindFlex Brain-EEG Sound Controller | Brain EEG-powered ESP32 Sound Controller]]utilizing a MindFlex Brain Wave controller and an ESP-32 Development Board to translate EEG waves and other various stochastic processes into a novel interactive music system.
 - Built an [[Slew-Limiter Tremolo | analog tremolo effect]]  with a slew-limited square and triangle LFO.
 - [[Ultrasonic Microphone Jammer | A research paper on Ultrasonic Microphone Jammers]]
 [[Portfolio Projects| (you can find more of them here)]]
 
 Some NYU-related things I'm currently involved in
 - I help put together [MTech Invasion](https://sites.google.com/nyu.edu/mtech-invasion/invade?authuser=0) every semester! MTech Invasion is a student-run style-agnostic "Pandora's Box" concert featuring Music Technology students.
-- I am apart of [GenAudio](https://wp.nyu.edu/steinhardtschoolofcultureeducationandhumandevelopment-nyugenaudio/) Leadership, where we foster learning and research through industry panels, hackathons, reading groups, and hands-on projects.
+- I am currently apart of [GenAudio](https://wp.nyu.edu/steinhardtschoolofcultureeducationandhumandevelopment-nyugenaudio/) Leadership, where we foster learning and research through industry panels, hackathons, reading groups, and hands-on projects.
 
 Feel free to reach out if you're interested in hearing more about me!
 [[Resume]] [[About#Contact |Contact]]
