@@ -23,7 +23,7 @@ Some cool things I've done:
 - Developing a [[ESP32 MindFlex Brain-EEG Sound Controller | Brain EEG-powered ESP32 Sound Controller]]utilizing a MindFlex Brain Wave controller and an ESP-32 Development Board to translate EEG waves and other various stochastic processes into a novel interactive music system.
 - Built an [[Slew-Limiter Tremolo | analog tremolo effect]]  with a slew-limited square and triangle LFO.
 - [[Ultrasonic Microphone Jammer | A research paper on Ultrasonic Microphone Jammers]]
-[[Portfolio Projects| (you can find more of them here)]]
+- [You can find more of them here](https://sialboat.github.io/portfolio/projects/)
 
 Some NYU-related things I'm currently involved in
 - I help put together [MTech Invasion](https://sites.google.com/nyu.edu/mtech-invasion/invade?authuser=0) every semester! MTech Invasion is a student-run style-agnostic "Pandora's Box" concert featuring Music Technology students.
