@@ -1,5 +1,17 @@
+---
+title: EEG Brain Wave MIDI Controller
+description: EEG Brain Wave MIDI Controller for MPATE-GE 2047 Adv. Computer Music taught by Mason Mann.
+aliases:
+draft:
+tags: project, portfolio
+published:
+created: 12-22-25
+permalink:
+---
 #project #portfolio 
-Final Project for MPATE-GE 2047 Advanced Computer Music. This project utilizes a custom ESP32 development board and a MindFlex EEG sensor. The MindFlex sensor transmits the magnitudes of various frequency bins as a digital signal, to which the ESP32 will translate into MIDI-CC via USB and Adafruit's TinyUSB abstraction.
+Final Project for MPATE-GE 2047 Advanced Computer Music.
+
+ This project utilizes a custom ESP32 development board and a MindFlex EEG sensor. The MindFlex sensor transmits the magnitudes of various frequency bins as a digital signal, to which the ESP32 will translate into MIDI-CC via USB and Adafruit's TinyUSB abstraction.
 
 The incredible folks at NYU's ITP program provided a comprehensive [tutorial](https://frontiernerds.com/brain-hack) on how to get this up and running. In addition, they have provided an [Arduino Library](https://github.com/kitschpatrol/Brain) to interface with this MindFlex controller.
 
