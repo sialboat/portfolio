@@ -1,5 +1,5 @@
 ---
-title: a reflection on this current semester
+title: nyu f25 reflection
 description: thoughts about the semester, bad ideas, and future fuckshit
 aliases: f25 reflection
 draft: 1
@@ -24,3 +24,9 @@ There is a certain anxiety I get stepping into Steven Litt's classes. I know I a
 But I must pay amends to what Steve has provided me. I entered NYU wanting to produce electronic music and hopefully strike gold as a sound designer. But his electronics classes has led me down a rabbithole that fundamentally changed the way I see education and STEM as a whole. For one, it is possible to teach difficult subject areas to an audience that isn't familiar with science; I mean, teaching musicians how to build guitar pedals and embedded audio systems is already a feat in itself. But on another realm, the appreciation of the technology that drives our musical imagination has ignited a thirst for knowledge that has led me down the road of engineering and technology. An interest for the language of computers, circuits, and algorithms that lead to the weird goofy stuff that everybody puts on their hard drives or internet every day. Without this anxiety, I probably would have been able to appreciate this; but through this anxiety I have realized that I badly want this. A future where I can learn and make weird things whilst also telling people how I made these weird little things.
 
 Wouldn't want it any different though. Made a lot of graduate student friends, built some cool weird things (see [[EEG Brain Wave MIDI Controller]]and [[Gaming Handheld MIDI Controller]]), presented a research paper at a reading group, and learned more about computers while doing so.
+
+This winter break and the coming future I will try to spend my time on the following:
+- The Gaming Handheld mentioned before, specifically developing a proper backend for the program
+	- By extension, the EEG MindFlex controller so it can be fleshed out into a proper interactive music system.
+- The Signals and Systems class by Alan Oppenheim at MIT OpenCourseWare
+- Modding Minecraft Java Edition (for interactive music, of course)

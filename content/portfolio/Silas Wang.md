@@ -10,9 +10,8 @@ permalink:
 # Morning! I'm Silas. 
 I'm a Music Technology student at NYU. I'm currently pursuing a 5-year bachelors and masters in Music Technology. Alongside Music Technology, I am studying Computer Science, Signal Processing, and Electrical Engineering.
 
-My interests are threefold: 
+My interests are twofold: 
 - Making hardware and software products
-- Sound Design
 - Sharing knowledge in both an accessible and thorough nature that inspires other people to make stuff
 
 This part of my website serves as a portfolio / archive of all of my recent works, and some other things that I've been up to. Thanks for stopping by!
