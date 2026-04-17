@@ -1,6 +1,18 @@
+---
+title: GenAudio Reading Groups
+description: Select papers and resources for the NYU GenAudio Research readings that I have led.
+aliases:
+draft:
+tags:
+  - project
+  - portfolio
+published:
+created:
+permalink:
+---
 #project #portfolio 
 
-Select papers and resources for the NYU GenAudio research reading groups. 
+Select papers and resources for the NYU GenAudio research reading groups that I have led. 
 
 NYU GenAudio regularly hosts weekly research paper reading groups encouraging people to read research on topics ranging from generative audio, machine learning, signal processing, and music technology. I have presented research from various disciplines in an approachable light that encourages anybody (regardless of background) to engage with the material. The notes, slides, and research papers that I have used are available on my GitHub. This page details the different research papers that I have presented at GenAudio.
 
