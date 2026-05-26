@@ -2,7 +2,7 @@
 title: life update
 description: random stuff that's been happening that may be worth keeping an update on
 aliases:
-draft: true
+draft: false
 tags:
   - posts
 published:
